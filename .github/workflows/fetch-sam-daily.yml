@@ -1,0 +1,51 @@
+name: Denamita SAM.gov Daily Fetch
+
+# Runs every weekday at 10:30 UTC = 6:30 AM ET (EDT). For EST (winter), this is 5:30 AM.
+# Adjust if you'd rather have it run at the same wall-clock time year-round.
+on:
+  schedule:
+    - cron: '30 10 * * 1-5'   # Mon-Fri at 10:30 UTC
+  workflow_dispatch:           # Allows manual triggering from the Actions tab
+
+permissions:
+  contents: write              # Required so the workflow can commit the JSON output back to the repo
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run SAM.gov fetch
+        env:
+          SAM_GOV_API_KEY: ${{ secrets.SAM_GOV_API_KEY }}
+        run: |
+          python fetch_sam_cloud.py
+
+      - name: Commit and push output
+        run: |
+          git config user.name  "denamita-sam-bot"
+          git config user.email "denamita-sam-bot@users.noreply.github.com"
+          git add output/
+          if git diff --staged --quiet; then
+            echo "No new SAM.gov data to commit"
+          else
+            DATE_STAMP=$(date -u +"%Y-%m-%d")
+            git commit -m "SAM.gov daily pull ${DATE_STAMP}"
+            git push
+          fi
+
+      - name: Upload output as artifact (backup)
+        uses: actions/upload-artifact@v4
+        with:
+          name: sam-pull-${{ github.run_id }}
+          path: output/
+          retention-days: 30
