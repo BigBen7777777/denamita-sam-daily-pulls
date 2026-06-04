@@ -1,0 +1,135 @@
+[2026-06-04 13:38:22Z] Denamita SAM.gov daily fetch starting (cloud variant)
+[2026-06-04 13:38:22Z] Repo root: /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls
+[2026-06-04 13:38:22Z] Output directory: /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls/output
+[2026-06-04 13:38:22Z] API key loaded from environment (length: 40)
+[2026-06-04 13:38:22Z] Date window: 05/05/2026 to 06/04/2026 (30-day lookback)
+[2026-06-04 13:38:22Z] --- Fetching NAICS 561210 ---
+[2026-06-04 13:38:23Z]   NAICS 561210 ptype o page 1: 28 fetched, 20 kept after set-aside filter
+[2026-06-04 13:38:23Z]   NAICS 561210 ptype k page 1: 24 fetched, 20 kept after set-aside filter
+[2026-06-04 13:38:24Z]   NAICS 561210 ptype p page 1: 8 fetched, 7 kept after set-aside filter
+[2026-06-04 13:39:25Z] HTTPError 504 for NAICS 561210 ptype r offset 0: Gateway Time-out | body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+[2026-06-04 13:39:25Z]   NAICS 561210 ptype s page 1: 5 fetched, 5 kept after set-aside filter
+[2026-06-04 13:39:26Z] --- Fetching NAICS 484121 ---
+[2026-06-04 13:40:26Z] HTTPError 504 for NAICS 484121 ptype o offset 0: Gateway Time-out | body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+[2026-06-04 13:41:26Z] HTTPError 504 for NAICS 484121 ptype k offset 0: Gateway Time-out | body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+[2026-06-04 13:42:28Z] HTTPError 504 for NAICS 484121 ptype r offset 0: Gateway Time-out | body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+[2026-06-04 13:43:28Z] HTTPError 504 for NAICS 484121 ptype s offset 0: Gateway Time-out | body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+[2026-06-04 13:43:29Z] --- Fetching NAICS 541513 ---
+[2026-06-04 13:44:29Z] Unexpected error for NAICS 541513 ptype o: TimeoutError('The read operation timed out')
+[2026-06-04 13:45:30Z] HTTPError 504 for NAICS 541513 ptype k offset 0: Gateway Time-out | body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+[2026-06-04 13:46:31Z] HTTPError 504 for NAICS 541513 ptype r offset 0: Gateway Time-out | body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+[2026-06-04 13:47:32Z] HTTPError 504 for NAICS 541513 ptype s offset 0: Gateway Time-out | body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+[2026-06-04 13:47:32Z] --- Fetching NAICS 561720 ---
+[2026-06-04 13:48:07Z]   NAICS 561720 ptype o page 1: 26 fetched, 19 kept after set-aside filter
+[2026-06-04 13:48:08Z]   NAICS 561720 ptype k page 1: 42 fetched, 32 kept after set-aside filter
+[2026-06-04 13:48:09Z]   NAICS 561720 ptype p page 1: 10 fetched, 9 kept after set-aside filter
+[2026-06-04 13:48:09Z]   NAICS 561720 ptype r page 1: 13 fetched, 11 kept after set-aside filter
+[2026-06-04 13:48:10Z]   NAICS 561720 ptype s page 1: 6 fetched, 4 kept after set-aside filter
+[2026-06-04 13:48:11Z] Wrote 127 records to /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls/output/SAM_Pull_2026-06-04.json
+[2026-06-04 13:48:11Z] Run complete. Duration: 588.7s. Errors: 9.
+
+=== Errors ===
+HTTPError 504 for NAICS 561210 ptype r offset 0: Gateway Time-out | body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+HTTPError 504 for NAICS 484121 ptype o offset 0: Gateway Time-out | body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+HTTPError 504 for NAICS 484121 ptype k offset 0: Gateway Time-out | body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+HTTPError 504 for NAICS 484121 ptype r offset 0: Gateway Time-out | body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+HTTPError 504 for NAICS 484121 ptype s offset 0: Gateway Time-out | body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+Unexpected error for NAICS 541513 ptype o: TimeoutError('The read operation timed out')
+HTTPError 504 for NAICS 541513 ptype k offset 0: Gateway Time-out | body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+HTTPError 504 for NAICS 541513 ptype r offset 0: Gateway Time-out | body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+HTTPError 504 for NAICS 541513 ptype s offset 0: Gateway Time-out | body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
