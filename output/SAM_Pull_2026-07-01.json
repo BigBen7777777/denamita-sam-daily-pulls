@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "run_date_utc": "2026-07-01T13:16:01.506972Z",
+    "posted_from": "06/01/2026",
+    "posted_to": "07/01/2026",
+    "target_naics": [
+      "561210",
+      "484121",
+      "541513",
+      "561720"
+    ],
+    "notice_types": [
+      "o",
+      "k",
+      "p",
+      "r",
+      "s"
+    ],
+    "naics_counts": {
+      "561210": 0,
+      "484121": 0,
+      "541513": 0,
+      "561720": 0
+    },
+    "total_records_after_dedup": 0,
+    "total_records_before_dedup": 0,
+    "error_count": 20,
+    "source": "github_actions_cloud_run"
+  },
+  "records": []
+}

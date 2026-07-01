@@ -1,0 +1,53 @@
+[2026-07-01 13:16:01Z] Denamita SAM.gov daily fetch starting (cloud variant)
+[2026-07-01 13:16:01Z] Repo root: /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls
+[2026-07-01 13:16:01Z] Output directory: /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls/output
+[2026-07-01 13:16:01Z] API key loaded from environment (length: 40)
+[2026-07-01 13:16:01Z] Date window: 06/01/2026 to 07/01/2026 (30-day lookback)
+[2026-07-01 13:16:01Z] --- Fetching NAICS 561210 ---
+[2026-07-01 13:16:10Z] HTTPError 500 for NAICS 561210 ptype o offset 0: Internal Server Error | body: 
+[2026-07-01 13:16:11Z] HTTPError 500 for NAICS 561210 ptype k offset 0: Internal Server Error | body: 
+[2026-07-01 13:16:21Z] HTTPError 500 for NAICS 561210 ptype p offset 0: Internal Server Error | body: 
+[2026-07-01 13:16:22Z] HTTPError 503 for NAICS 561210 ptype r offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:16:22Z] HTTPError 503 for NAICS 561210 ptype s offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:16:23Z] --- Fetching NAICS 484121 ---
+[2026-07-01 13:16:23Z] HTTPError 503 for NAICS 484121 ptype o offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:16:24Z] HTTPError 503 for NAICS 484121 ptype k offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:16:25Z] HTTPError 503 for NAICS 484121 ptype p offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:16:25Z] HTTPError 503 for NAICS 484121 ptype r offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:17:02Z] HTTPError 503 for NAICS 484121 ptype s offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:17:03Z] --- Fetching NAICS 541513 ---
+[2026-07-01 13:17:03Z] HTTPError 503 for NAICS 541513 ptype o offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:17:04Z] HTTPError 503 for NAICS 541513 ptype k offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:17:05Z] HTTPError 503 for NAICS 541513 ptype p offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:17:05Z] HTTPError 503 for NAICS 541513 ptype r offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:17:06Z] HTTPError 503 for NAICS 541513 ptype s offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:17:07Z] --- Fetching NAICS 561720 ---
+[2026-07-01 13:17:07Z] HTTPError 503 for NAICS 561720 ptype o offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:17:08Z] HTTPError 503 for NAICS 561720 ptype k offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:17:08Z] HTTPError 503 for NAICS 561720 ptype p offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:17:09Z] HTTPError 503 for NAICS 561720 ptype r offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:17:10Z] HTTPError 503 for NAICS 561720 ptype s offset 0: Service Unavailable | body: no healthy upstream
+[2026-07-01 13:17:10Z] Wrote 0 records to /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls/output/SAM_Pull_2026-07-01.json
+[2026-07-01 13:17:10Z] Run complete. Duration: 69.2s. Errors: 20.
+
+=== Errors ===
+HTTPError 500 for NAICS 561210 ptype o offset 0: Internal Server Error | body: 
+HTTPError 500 for NAICS 561210 ptype k offset 0: Internal Server Error | body: 
+HTTPError 500 for NAICS 561210 ptype p offset 0: Internal Server Error | body: 
+HTTPError 503 for NAICS 561210 ptype r offset 0: Service Unavailable | body: no healthy upstream
+HTTPError 503 for NAICS 561210 ptype s offset 0: Service Unavailable | body: no healthy upstream
+HTTPError 503 for NAICS 484121 ptype o offset 0: Service Unavailable | body: no healthy upstream
+HTTPError 503 for NAICS 484121 ptype k offset 0: Service Unavailable | body: no healthy upstream
+HTTPError 503 for NAICS 484121 ptype p offset 0: Service Unavailable | body: no healthy upstream
+HTTPError 503 for NAICS 484121 ptype r offset 0: Service Unavailable | body: no healthy upstream
+HTTPError 503 for NAICS 484121 ptype s offset 0: Service Unavailable | body: no healthy upstream
+HTTPError 503 for NAICS 541513 ptype o offset 0: Service Unavailable | body: no healthy upstream
+HTTPError 503 for NAICS 541513 ptype k offset 0: Service Unavailable | body: no healthy upstream
+HTTPError 503 for NAICS 541513 ptype p offset 0: Service Unavailable | body: no healthy upstream
+HTTPError 503 for NAICS 541513 ptype r offset 0: Service Unavailable | body: no healthy upstream
+HTTPError 503 for NAICS 541513 ptype s offset 0: Service Unavailable | body: no healthy upstream
+HTTPError 503 for NAICS 561720 ptype o offset 0: Service Unavailable | body: no healthy upstream
+HTTPError 503 for NAICS 561720 ptype k offset 0: Service Unavailable | body: no healthy upstream
+HTTPError 503 for NAICS 561720 ptype p offset 0: Service Unavailable | body: no healthy upstream
+HTTPError 503 for NAICS 561720 ptype r offset 0: Service Unavailable | body: no healthy upstream
+HTTPError 503 for NAICS 561720 ptype s offset 0: Service Unavailable | body: no healthy upstream
