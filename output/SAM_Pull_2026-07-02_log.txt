@@ -1,0 +1,25 @@
+[2026-07-02 12:26:30Z] Denamita SAM.gov daily fetch starting (cloud variant)
+[2026-07-02 12:26:30Z] Repo root: /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls
+[2026-07-02 12:26:30Z] Output directory: /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls/output
+[2026-07-02 12:26:30Z] API key loaded from environment (length: 40)
+[2026-07-02 12:26:30Z] Date window: 06/02/2026 to 07/02/2026 (30-day lookback)
+[2026-07-02 12:26:30Z] --- Fetching NAICS 561210 ---
+[2026-07-02 12:26:30Z]   NAICS 561210 ptype o page 1: 32 fetched, 23 kept after set-aside filter
+[2026-07-02 12:26:31Z]   NAICS 561210 ptype k page 1: 15 fetched, 12 kept after set-aside filter
+[2026-07-02 12:26:32Z]   NAICS 561210 ptype p page 1: 13 fetched, 11 kept after set-aside filter
+[2026-07-02 12:26:32Z]   NAICS 561210 ptype r page 1: 27 fetched, 26 kept after set-aside filter
+[2026-07-02 12:26:33Z]   NAICS 561210 ptype s page 1: 4 fetched, 4 kept after set-aside filter
+[2026-07-02 12:26:33Z] --- Fetching NAICS 484121 ---
+[2026-07-02 12:26:34Z]   NAICS 484121 ptype k page 1: 1 fetched, 1 kept after set-aside filter
+[2026-07-02 12:26:37Z] --- Fetching NAICS 541513 ---
+[2026-07-02 12:26:37Z]   NAICS 541513 ptype o page 1: 3 fetched, 3 kept after set-aside filter
+[2026-07-02 12:27:14Z]   NAICS 541513 ptype p page 1: 1 fetched, 1 kept after set-aside filter
+[2026-07-02 12:27:15Z]   NAICS 541513 ptype r page 1: 2 fetched, 2 kept after set-aside filter
+[2026-07-02 12:27:16Z] --- Fetching NAICS 561720 ---
+[2026-07-02 12:27:16Z]   NAICS 561720 ptype o page 1: 23 fetched, 17 kept after set-aside filter
+[2026-07-02 12:27:17Z]   NAICS 561720 ptype k page 1: 39 fetched, 32 kept after set-aside filter
+[2026-07-02 12:27:17Z]   NAICS 561720 ptype p page 1: 8 fetched, 6 kept after set-aside filter
+[2026-07-02 12:27:18Z]   NAICS 561720 ptype r page 1: 8 fetched, 4 kept after set-aside filter
+[2026-07-02 12:27:19Z]   NAICS 561720 ptype s page 1: 3 fetched, 0 kept after set-aside filter
+[2026-07-02 12:27:19Z] Wrote 142 records to /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls/output/SAM_Pull_2026-07-02.json
+[2026-07-02 12:27:19Z] Run complete. Duration: 49.3s. Errors: 0.
