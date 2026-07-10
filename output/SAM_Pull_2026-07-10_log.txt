@@ -1,0 +1,24 @@
+[2026-07-10 12:39:32Z] Denamita SAM.gov daily fetch starting (cloud variant)
+[2026-07-10 12:39:32Z] Repo root: /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls
+[2026-07-10 12:39:32Z] Output directory: /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls/output
+[2026-07-10 12:39:32Z] API key loaded from environment (length: 40)
+[2026-07-10 12:39:32Z] Date window: 06/10/2026 to 07/10/2026 (30-day lookback)
+[2026-07-10 12:39:32Z] --- Fetching NAICS 561210 ---
+[2026-07-10 12:39:33Z]   NAICS 561210 ptype o page 1: 34 fetched, 21 kept after set-aside filter
+[2026-07-10 12:39:34Z]   NAICS 561210 ptype k page 1: 15 fetched, 11 kept after set-aside filter
+[2026-07-10 12:39:35Z]   NAICS 561210 ptype p page 1: 14 fetched, 12 kept after set-aside filter
+[2026-07-10 12:39:36Z]   NAICS 561210 ptype r page 1: 19 fetched, 18 kept after set-aside filter
+[2026-07-10 12:39:36Z]   NAICS 561210 ptype s page 1: 4 fetched, 4 kept after set-aside filter
+[2026-07-10 12:39:37Z] --- Fetching NAICS 484121 ---
+[2026-07-10 12:40:40Z] --- Fetching NAICS 541513 ---
+[2026-07-10 12:40:41Z]   NAICS 541513 ptype o page 1: 2 fetched, 2 kept after set-aside filter
+[2026-07-10 12:40:42Z]   NAICS 541513 ptype p page 1: 2 fetched, 2 kept after set-aside filter
+[2026-07-10 12:40:43Z]   NAICS 541513 ptype r page 1: 2 fetched, 2 kept after set-aside filter
+[2026-07-10 12:40:44Z] --- Fetching NAICS 561720 ---
+[2026-07-10 12:40:44Z]   NAICS 561720 ptype o page 1: 26 fetched, 20 kept after set-aside filter
+[2026-07-10 12:40:45Z]   NAICS 561720 ptype k page 1: 39 fetched, 32 kept after set-aside filter
+[2026-07-10 12:40:46Z]   NAICS 561720 ptype p page 1: 9 fetched, 7 kept after set-aside filter
+[2026-07-10 12:40:46Z]   NAICS 561720 ptype r page 1: 11 fetched, 7 kept after set-aside filter
+[2026-07-10 12:40:47Z]   NAICS 561720 ptype s page 1: 1 fetched, 0 kept after set-aside filter
+[2026-07-10 12:40:48Z] Wrote 138 records to /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls/output/SAM_Pull_2026-07-10.json
+[2026-07-10 12:40:48Z] Run complete. Duration: 75.7s. Errors: 0.
