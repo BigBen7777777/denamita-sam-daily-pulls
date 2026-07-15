@@ -1,0 +1,23 @@
+[2026-07-15 11:56:10Z] Denamita SAM.gov daily fetch starting (cloud variant)
+[2026-07-15 11:56:10Z] Repo root: /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls
+[2026-07-15 11:56:10Z] Output directory: /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls/output
+[2026-07-15 11:56:10Z] API key loaded from environment (length: 40)
+[2026-07-15 11:56:10Z] Date window: 06/15/2026 to 07/15/2026 (30-day lookback)
+[2026-07-15 11:56:10Z] --- Fetching NAICS 561210 ---
+[2026-07-15 11:56:11Z]   NAICS 561210 ptype o page 1: 34 fetched, 19 kept after set-aside filter
+[2026-07-15 11:56:12Z]   NAICS 561210 ptype k page 1: 18 fetched, 14 kept after set-aside filter
+[2026-07-15 11:56:13Z]   NAICS 561210 ptype p page 1: 11 fetched, 10 kept after set-aside filter
+[2026-07-15 11:56:13Z]   NAICS 561210 ptype r page 1: 18 fetched, 16 kept after set-aside filter
+[2026-07-15 11:56:14Z]   NAICS 561210 ptype s page 1: 4 fetched, 4 kept after set-aside filter
+[2026-07-15 11:56:15Z] --- Fetching NAICS 484121 ---
+[2026-07-15 11:56:19Z] --- Fetching NAICS 541513 ---
+[2026-07-15 11:56:21Z]   NAICS 541513 ptype p page 1: 2 fetched, 2 kept after set-aside filter
+[2026-07-15 11:56:21Z]   NAICS 541513 ptype r page 1: 2 fetched, 2 kept after set-aside filter
+[2026-07-15 11:56:23Z] --- Fetching NAICS 561720 ---
+[2026-07-15 11:56:23Z]   NAICS 561720 ptype o page 1: 26 fetched, 20 kept after set-aside filter
+[2026-07-15 11:56:24Z]   NAICS 561720 ptype k page 1: 37 fetched, 30 kept after set-aside filter
+[2026-07-15 11:56:25Z]   NAICS 561720 ptype p page 1: 8 fetched, 6 kept after set-aside filter
+[2026-07-15 11:56:26Z]   NAICS 561720 ptype r page 1: 11 fetched, 7 kept after set-aside filter
+[2026-07-15 11:57:27Z]   NAICS 561720 ptype s page 1: 4 fetched, 3 kept after set-aside filter
+[2026-07-15 11:57:27Z] Wrote 133 records to /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls/output/SAM_Pull_2026-07-15.json
+[2026-07-15 11:57:27Z] Run complete. Duration: 77.0s. Errors: 0.
