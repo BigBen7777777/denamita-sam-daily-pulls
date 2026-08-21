@@ -29,7 +29,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent
 OUTPUT_DIR = REPO_ROOT / "output"
 
-TARGET_NAICS = ["561210", "484121", "541513", "561720"]
+TARGET_NAICS = ["561210", "561720", "541513", "541614", "484121", "484110"]
 
 ALLOWED_SET_ASIDES = {"", "NONE", "SBA", "Total Small Business"}
 EXCLUDED_SET_ASIDES = {
