@@ -1,0 +1,29 @@
+[2026-10-02 16:18:54Z] Denamita SAM.gov daily fetch starting (cloud variant)
+[2026-10-02 16:18:54Z] Repo root: /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls
+[2026-10-02 16:18:54Z] Output directory: /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls/output
+[2026-10-02 16:18:54Z] API key loaded from environment (length: 40)
+[2026-10-02 16:18:54Z] Date window: 09/02/2026 to 10/02/2026 (30-day lookback)
+[2026-10-02 16:18:54Z] --- Fetching NAICS 561210 ---
+[2026-10-02 16:18:54Z]   NAICS 561210 ptype o page 1: 28 fetched, 24 kept after set-aside filter
+[2026-10-02 16:18:55Z]   NAICS 561210 ptype k page 1: 16 fetched, 10 kept after set-aside filter
+[2026-10-02 16:18:56Z]   NAICS 561210 ptype p page 1: 5 fetched, 3 kept after set-aside filter
+[2026-10-02 16:18:56Z]   NAICS 561210 ptype r page 1: 10 fetched, 8 kept after set-aside filter
+[2026-10-02 16:18:57Z]   NAICS 561210 ptype s page 1: 4 fetched, 4 kept after set-aside filter
+[2026-10-02 16:18:58Z] --- Fetching NAICS 561720 ---
+[2026-10-02 16:18:58Z]   NAICS 561720 ptype o page 1: 11 fetched, 9 kept after set-aside filter
+[2026-10-02 16:18:59Z]   NAICS 561720 ptype k page 1: 20 fetched, 15 kept after set-aside filter
+[2026-10-02 16:19:01Z]   NAICS 561720 ptype r page 1: 4 fetched, 3 kept after set-aside filter
+[2026-10-02 16:19:02Z] --- Fetching NAICS 541513 ---
+[2026-10-02 16:19:02Z]   NAICS 541513 ptype o page 1: 1 fetched, 1 kept after set-aside filter
+[2026-10-02 16:20:03Z]   NAICS 541513 ptype p page 1: 1 fetched, 1 kept after set-aside filter
+[2026-10-02 16:20:04Z]   NAICS 541513 ptype r page 1: 5 fetched, 5 kept after set-aside filter
+[2026-10-02 16:20:05Z] --- Fetching NAICS 541614 ---
+[2026-10-02 16:20:05Z]   NAICS 541614 ptype o page 1: 1 fetched, 0 kept after set-aside filter
+[2026-10-02 16:20:06Z]   NAICS 541614 ptype k page 1: 2 fetched, 1 kept after set-aside filter
+[2026-10-02 16:20:07Z]   NAICS 541614 ptype p page 1: 2 fetched, 1 kept after set-aside filter
+[2026-10-02 16:20:07Z]   NAICS 541614 ptype r page 1: 1 fetched, 1 kept after set-aside filter
+[2026-10-02 16:20:08Z]   NAICS 541614 ptype s page 1: 2 fetched, 1 kept after set-aside filter
+[2026-10-02 16:20:08Z] --- Fetching NAICS 484121 ---
+[2026-10-02 16:20:12Z] --- Fetching NAICS 484110 ---
+[2026-10-02 16:20:15Z] Wrote 87 records to /home/runner/work/denamita-sam-daily-pulls/denamita-sam-daily-pulls/output/SAM_Pull_2026-10-02.json
+[2026-10-02 16:20:15Z] Run complete. Duration: 80.7s. Errors: 0.
