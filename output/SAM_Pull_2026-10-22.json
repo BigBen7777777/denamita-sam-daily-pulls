@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "run_date_utc": "2026-10-22T03:13:49.039222Z",
+    "run_date_utc": "2026-10-22T15:26:28.430188Z",
     "posted_from": "09/22/2026",
     "posted_to": "10/22/2026",
     "target_naics": [
@@ -19,16 +19,16 @@
       "s"
     ],
     "naics_counts": {
-      "561210": 41,
+      "561210": 43,
       "561720": 25,
       "541513": 8,
-      "541614": 3,
+      "541614": 6,
       "484121": 0,
       "484110": 1
     },
-    "total_records_after_dedup": 78,
-    "total_records_before_dedup": 78,
-    "error_count": 1,
+    "total_records_after_dedup": 83,
+    "total_records_before_dedup": 83,
+    "error_count": 0,
     "source": "github_actions_cloud_run"
   },
   "records": [
@@ -95,7 +95,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/ebbbb7eb738f4e8e9e025bc1e46b95ba/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -195,7 +195,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/e77b4486a8914dcf996216c4941947ab/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -290,7 +290,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/cb27872d774244858d5efe64dc464b9a/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -379,7 +379,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/883e282cd9be482fa9fe0f4dcbf28e3f/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -441,7 +441,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/588009fe95064eefaa0bed9bdceeeeeb/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -536,7 +536,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/fec60a293d0f46e7bcd1760d21f57e84/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -601,7 +601,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/fc6eefee8325431dbd05077d90c72f78/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -663,7 +663,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/6994032a74bd4eef9c62258d44faade4/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -738,7 +738,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/ee8639020b8747a19f1f1618a58b2b6d/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -793,7 +793,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/078cff80b9b64c039fb92b3b98e85e4b/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -850,7 +850,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/3bb134ad52cb4b159c214e001741fc8b/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -928,7 +928,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/df95a1403ccd43f9a61bfa578cd63216/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -991,7 +991,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/2c1488dd96e94e71a5389ef850ccac06/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -1049,30 +1049,30 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/6751556dbd1c4c25a46a3f30ac01bb59/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
       "additionalInfoLink": null,
-      "archiveDate": "2027-04-27",
+      "archiveDate": "2027-04-21",
       "archiveType": "autocustom",
       "award": null,
       "baseType": "Combined Synopsis/Solicitation",
       "classificationCode": "S216",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b75492d249584e32b84f888449b5a20c",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=83fa4210b1aa4d51ac7937b703a9b089",
       "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N00253",
       "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL UNDERSEA WARFARE CENTER",
       "links": [
         {
           "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=b75492d249584e32b84f888449b5a20c&limit=1"
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=83fa4210b1aa4d51ac7937b703a9b089&limit=1"
         }
       ],
       "naicsCode": "561210",
       "naicsCodes": [
         "561210"
       ],
-      "noticeId": "b75492d249584e32b84f888449b5a20c",
+      "noticeId": "83fa4210b1aa4d51ac7937b703a9b089",
       "officeAddress": {
         "zipcode": "98345-7610",
         "city": "KEYPORT",
@@ -1111,10 +1111,11 @@
           "fullName": "Kaci Campbell"
         }
       ],
-      "postedDate": "2026-10-21",
+      "postedDate": "2026-10-22",
       "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/27dc30ba75534f87bb95643822346b8d/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3a29982d798d464391fa56369043daa9/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3e594d9b9cf547c09160b230eda1f0ed/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b8411f20b756491b9824e9ee6333cfa5/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b948c8e1de9e4466a9ef754f99997990/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ccc35d6acf6d457882f6cceb3e244eb3/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d5181d9a372c44359a69b6e6ab45047e/download",
@@ -1126,10 +1127,138 @@
       "type": "Combined Synopsis/Solicitation",
       "typeOfSetAside": "SBA",
       "typeOfSetAsideDescription": "Small Business Set Aside - Total",
-      "uiLink": "https://sam.gov/workspace/contract/opp/b75492d249584e32b84f888449b5a20c/view",
+      "uiLink": "https://sam.gov/workspace/contract/opp/83fa4210b1aa4d51ac7937b703a9b089/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "k",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-10-22",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Combined Synopsis/Solicitation",
+      "classificationCode": "S208",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=73290b71602e4b9a8d128b5448f57745",
+      "fullParentPathCode": "021.2100.AMC.ACC.MICC.419TH CSB.W911SA",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC FT MCCOY (RC)",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=73290b71602e4b9a8d128b5448f57745&limit=1"
+        }
+      ],
+      "naicsCode": "561210",
+      "naicsCodes": [
+        "561210"
+      ],
+      "noticeId": "73290b71602e4b9a8d128b5448f57745",
+      "officeAddress": {
+        "zipcode": "54656-5142",
+        "city": "FORT MCCOY",
+        "countryCode": "USA",
+        "state": "WI"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "",
+        "zip": ""
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "breanna.d.huff.civ@army.mil",
+          "phone": "5207061179",
+          "fullName": "Breanna Huff"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "nathan.a.coleman2.mil@army.mil",
+          "phone": "",
+          "fullName": "MAJ Nathan Coleman"
+        }
+      ],
+      "postedDate": "2026-10-22",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-11-04T10:00:00-06:00",
+      "solicitationNumber": "W911SA27QA010",
+      "title": "Kansas Statewide Snow and Grounds",
+      "type": "Combined Synopsis/Solicitation",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/73290b71602e4b9a8d128b5448f57745/view",
+      "_pulled_naics": "561210",
+      "_pulled_ptype": "k",
+      "_pulled_at": "2026-10-22T15:26:28.430188"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-25",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Combined Synopsis/Solicitation",
+      "classificationCode": "M1EA",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=3f01e8cffb79476e91f5cdeb0497c03d",
+      "fullParentPathCode": "021.2100.AMC.ACC.ACC-CTRS.ACC RI.W519TC",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC RI.W6QK ACC-RI",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=3f01e8cffb79476e91f5cdeb0497c03d&limit=1"
+        }
+      ],
+      "naicsCode": "561210",
+      "naicsCodes": [
+        "561210"
+      ],
+      "noticeId": "3f01e8cffb79476e91f5cdeb0497c03d",
+      "officeAddress": {
+        "zipcode": "61299-0000",
+        "city": "ROCK ISLAND",
+        "countryCode": "USA",
+        "state": "IL"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "51735",
+          "name": "Middletown"
+        },
+        "state": {
+          "code": "IA",
+          "name": "Iowa"
+        },
+        "zip": "52638",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "derek.s.rooks.civ@army.mil",
+          "phone": "",
+          "fullName": "Derek Rooks"
+        }
+      ],
+      "postedDate": "2026-10-22",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-12-10T17:00:00-06:00",
+      "solicitationNumber": "W519TC-27-R-IA03",
+      "title": "Telecommunications Fiber Optic Upgrades at Iowa Army Ammunition Plant",
+      "type": "Combined Synopsis/Solicitation",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/3f01e8cffb79476e91f5cdeb0497c03d/view",
+      "_pulled_naics": "561210",
+      "_pulled_ptype": "k",
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -1191,7 +1320,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/52ac11736d3a4675b44d952820fd3715/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "k",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -1266,7 +1395,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/48e0d472a81c48a4b55704a092c7b378/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "k",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -1340,7 +1469,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/1d4317e301bb4f459a30914d32b3afe1/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "k",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -1427,7 +1556,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/a6cabc0569554ca98db2458f20792c31/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "k",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -1508,7 +1637,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/173cd2fcb55f41ca9cbd299f0cac95b3/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "k",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -1585,7 +1714,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/047288969c6a467eb94470892ee9caf0/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "k",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -1669,7 +1798,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/1e2b7f971f2a4c29afaeb56840c29e81/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "p",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -1744,7 +1873,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/b287806abdd448008251ebb2f0af2aaf/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "p",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -1812,7 +1941,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/6591131efcf1411ea2474a21244a993a/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -1867,7 +1996,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/509dd48c0b7e46bda678f8d6cf9b1280/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -1939,7 +2068,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/d4b3a45b4b87422e857ee83de183265a/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -2005,7 +2134,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/104591872ada492396beb265d1173a6d/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -2072,7 +2201,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/a3fe1c3f70794e9fa89909c298a5e4b9/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -2142,7 +2271,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/4f2923911505485ea43c2623948fe01a/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -2211,7 +2340,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/9f815fd47677449f91afe15f9e50e987/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -2287,7 +2416,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/779c68c2d2a542e3838e8787321b3a50/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -2366,7 +2495,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/f368fdcfff984910807d98ffeba4c618/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -2441,7 +2570,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/e05928802a084e9c85212dc078e928b2/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -2510,7 +2639,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/c9119f5581af4951af11cd97338d2be0/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -2583,7 +2712,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/34cc17612bb44bb1851c43d4ad911c81/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -2658,7 +2787,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/abc90d561da24b7ea81451d55b946492/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -2724,7 +2853,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/ca737c5413fa4e498733b5ccd74137e8/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "s",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -2776,7 +2905,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/738775a333794e6dab84261625ae7e93/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "s",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -2851,7 +2980,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/9367a638d74540bf89fdff2810728841/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "s",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -2917,7 +3046,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/d6a90c81ce40410fadb7ee4d0996f9e5/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "s",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -3037,7 +3166,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/62f9994d80ee4c6a844472b495211a2b/view",
       "_pulled_naics": "561210",
       "_pulled_ptype": "s",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -3116,7 +3245,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/eed5e92241e34f28845cc2620531fb0d/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -3176,7 +3305,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/4cc074bf1a654217ac37487c08a2afa4/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -3255,7 +3384,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/48fa76bc5a2d44a18d153c9bc561933e/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -3339,7 +3468,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/45b68bf827274bda998175aff7e9c120/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -3413,7 +3542,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/d0284779f3ad451cb6b2e80f84ad17ae/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -3481,7 +3610,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/76a83839cbac4a0bac2cddd1e6e654e0/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -3536,7 +3665,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/1286993ae049434e8bbfaf9820da4d3d/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -3636,7 +3765,69 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/6183c5f977a94cf4a9dd6ee2a9ed856e/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "o",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-10-22",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Combined Synopsis/Solicitation",
+      "classificationCode": "F108",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b50057a47f784e25b02257e806b6c7fe",
+      "fullParentPathCode": "021.2100.AMC.ACC.ACC-OO.411TH CSB.W90VN7",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-OO.411TH CSB.0906 AQ CO     DET B CONTRACTI",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=b50057a47f784e25b02257e806b6c7fe&limit=1"
+        }
+      ],
+      "naicsCode": "561720",
+      "naicsCodes": [
+        "561720"
+      ],
+      "noticeId": "b50057a47f784e25b02257e806b6c7fe",
+      "officeAddress": {
+        "zipcode": "96202-5273",
+        "city": "APO",
+        "countryCode": "USA",
+        "state": "AP"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "Kusan Air Base, Korea",
+        "zip": "96264"
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "d.s.estes.civ@army.mil",
+          "phone": "3157559314",
+          "fullName": "D Estes"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "kyong.o.ko.ln@army.mil",
+          "phone": "",
+          "fullName": "Kyong Ko"
+        }
+      ],
+      "postedDate": "2026-10-22",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-11-02T10:00:00+09:00",
+      "solicitationNumber": "W90VN727RA001",
+      "title": "Custodial Services at Kunsan AB",
+      "type": "Combined Synopsis/Solicitation",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/b50057a47f784e25b02257e806b6c7fe/view",
+      "_pulled_naics": "561720",
+      "_pulled_ptype": "k",
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -3704,7 +3895,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/d6b9b214ced94565a8b424a756ef2fce/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "k",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -3781,7 +3972,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/36af86a7dd4042fc8b2074febdab7c60/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "k",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -3853,7 +4044,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/eff59fe41e34497595a726312004e8f9/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "k",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -3925,7 +4116,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/dfb8ffcc30744fd8a669aa623eb60993/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "k",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -3989,69 +4180,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/9d92e76c697e46d1b088c1db9ce69c88/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "k",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2027-10-01",
-      "archiveType": "autocustom",
-      "award": null,
-      "baseType": "Combined Synopsis/Solicitation",
-      "classificationCode": "F108",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=733d624e11804ac3bc6091973392f3c3",
-      "fullParentPathCode": "021.2100.AMC.ACC.ACC-OO.411TH CSB.W90VN7",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-OO.411TH CSB.0906 AQ CO     DET B CONTRACTI",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=733d624e11804ac3bc6091973392f3c3&limit=1"
-        }
-      ],
-      "naicsCode": "561720",
-      "naicsCodes": [
-        "561720"
-      ],
-      "noticeId": "733d624e11804ac3bc6091973392f3c3",
-      "officeAddress": {
-        "zipcode": "96202-5273",
-        "city": "APO",
-        "countryCode": "USA",
-        "state": "AP"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "streetAddress": "Kusan Air Base, Korea",
-        "zip": "96264"
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "d.s.estes.civ@army.mil",
-          "phone": "3157559314",
-          "fullName": "D Estes"
-        },
-        {
-          "fax": "",
-          "type": "secondary",
-          "email": "kyong.o.ko.ln@army.mil",
-          "phone": "",
-          "fullName": "Kyong Ko"
-        }
-      ],
-      "postedDate": "2026-09-30",
-      "resourceLinks": null,
-      "responseDeadLine": "2026-11-02T10:00:00+09:00",
-      "solicitationNumber": "W90VN727RA001",
-      "title": "Custodial Services at Kunsan AB",
-      "type": "Combined Synopsis/Solicitation",
-      "typeOfSetAside": null,
-      "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/733d624e11804ac3bc6091973392f3c3/view",
-      "_pulled_naics": "561720",
-      "_pulled_ptype": "k",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -4117,7 +4246,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/4418f19ef308450992fe55328c57b80d/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "k",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -4197,7 +4326,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/d2f8527fdb854756af01f569c1c1d389/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "k",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -4254,7 +4383,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/a52ea596b0454511a86648481ad71505/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "p",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -4327,7 +4456,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/4b46b7f586eb477baaafbc317137fd2c/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "p",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -4398,7 +4527,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/78a07cd6ac8c45958e96502eb797b0c8/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "p",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -4471,7 +4600,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/8f38418c15554e7eb70b241d1cfa5ee8/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "p",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -4529,7 +4658,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/ffa761b91c61460291c74cf744e8a792/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -4604,7 +4733,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/ed5ce028def240be8844339e4c5ec025/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -4679,7 +4808,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/458ee52e1e7b4693b003eccab813140d/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -4751,7 +4880,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/dd566a0295184d88bdd535b8f9581f41/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -4806,7 +4935,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/51e59e65742943f8807a6acdc6324d90/view",
       "_pulled_naics": "561720",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -4882,7 +5011,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/3e00c2da6acf4448b3d774dfe3d85fce/view",
       "_pulled_naics": "541513",
       "_pulled_ptype": "p",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -4958,7 +5087,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/aa24db01da394428a78cf36bfa231546/view",
       "_pulled_naics": "541513",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -5032,7 +5161,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/6ab1054610d74407aa19a1316e8677b8/view",
       "_pulled_naics": "541513",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -5096,7 +5225,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/de22734a66d642f7a23e88d78cadf540/view",
       "_pulled_naics": "541513",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -5171,7 +5300,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/fbec2a813c1d4358a6c78a9559749e13/view",
       "_pulled_naics": "541513",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -5229,7 +5358,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/e234de5d918d4931aea1db8f337b1c9e/view",
       "_pulled_naics": "541513",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -5305,7 +5434,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/8dfccbbc80344d0a9ddfa141a322b659/view",
       "_pulled_naics": "541513",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -5366,7 +5495,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/62be6f5fc4dc40aaa494e4ffcdd2f880/view",
       "_pulled_naics": "541513",
       "_pulled_ptype": "s",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -5423,7 +5552,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/6b6ea0960e0f4b2d8b627063fa969545/view",
       "_pulled_naics": "541614",
       "_pulled_ptype": "p",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -5485,7 +5614,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/a967d9772556484b9e7e6d2dec2febb2/view",
       "_pulled_naics": "541614",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -5546,7 +5675,187 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/c8b2e30f343048108abaf1e3931c3008/view",
       "_pulled_naics": "541614",
       "_pulled_ptype": "r",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-11-17",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Presolicitation",
+      "classificationCode": "R408",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b1bf5e96edc74f219782d63b35a30f2d",
+      "fullParentPathCode": "075.7529.75N980",
+      "fullParentPathName": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.NATIONAL INSTITUTES OF HEALTH OLAO",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=b1bf5e96edc74f219782d63b35a30f2d&limit=1"
+        }
+      ],
+      "naicsCode": "541614",
+      "naicsCodes": [
+        "541614"
+      ],
+      "noticeId": "b1bf5e96edc74f219782d63b35a30f2d",
+      "officeAddress": {
+        "zipcode": "20892",
+        "city": "BETHESDA",
+        "countryCode": "USA",
+        "state": "MD"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {},
+        "state": {},
+        "country": {}
+      },
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "email": "melanie.suarez@nih.gov",
+          "phone": "+1 000 000 0000",
+          "fullName": "SUAREZ, MELANIE D"
+        }
+      ],
+      "postedDate": "2026-10-16",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c4d48378cde9435d8234522447b72788/download"
+      ],
+      "responseDeadLine": "2026-11-02T12:00:00-05:00",
+      "solicitationNumber": "75N98026R00176",
+      "title": "R--RADx Coordination Center Notice of Intent",
+      "type": "Special Notice",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/b1bf5e96edc74f219782d63b35a30f2d/view",
+      "_pulled_naics": "541614",
+      "_pulled_ptype": "s",
+      "_pulled_at": "2026-10-22T15:26:28.430188"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-11-14",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Sources Sought",
+      "classificationCode": "R706",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f41f9d43fc364bf588c66cbbb75355d1",
+      "fullParentPathCode": "019.1900.19AQMM",
+      "fullParentPathName": "STATE, DEPARTMENT OF.STATE, DEPARTMENT OF.ACQUISITIONS - AQM MOMENTUM",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=f41f9d43fc364bf588c66cbbb75355d1&limit=1"
+        }
+      ],
+      "naicsCode": "541614",
+      "naicsCodes": [
+        "541614"
+      ],
+      "noticeId": "f41f9d43fc364bf588c66cbbb75355d1",
+      "officeAddress": {
+        "zipcode": "20520",
+        "city": "WASHINGTON",
+        "countryCode": "USA",
+        "state": "DC"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {},
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "email": "ColganRP@state.gov",
+          "phone": "202-341-2627",
+          "fullName": "Ryan Colgan"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "RautenbachJ@state.gov",
+          "phone": "202-368-2589",
+          "fullName": "Justin Rautenbach"
+        }
+      ],
+      "postedDate": "2026-10-09",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1b6271cf8f774fa6a4e6981a70a283fb/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/44c261eeb7ab4285a7e49c801e47b057/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e0f317aafd924ee0ab4b8777cc593af3/download"
+      ],
+      "responseDeadLine": "2026-10-30T15:00:00-04:00",
+      "solicitationNumber": null,
+      "title": "DRAFT - DIPLOMATIC PLATFORM SUPPORT SERVICES II (DiPSS II) IDIQ",
+      "type": "Special Notice",
+      "typeOfSetAside": "NONE",
+      "typeOfSetAsideDescription": "No Set aside used",
+      "uiLink": "https://sam.gov/workspace/contract/opp/f41f9d43fc364bf588c66cbbb75355d1/view",
+      "_pulled_naics": "541614",
+      "_pulled_ptype": "s",
+      "_pulled_at": "2026-10-22T15:26:28.430188"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-14",
+      "archiveType": "autocustom",
+      "award": {
+        "awardee": {}
+      },
+      "baseType": "Presolicitation",
+      "classificationCode": "Q702",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5ef7368c76204ac19d0cf5af5f259f98",
+      "fullParentPathCode": "036.3600.36C776",
+      "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.PCAC (36C776)",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5ef7368c76204ac19d0cf5af5f259f98&limit=1"
+        }
+      ],
+      "naicsCode": "541614",
+      "naicsCodes": [
+        "541614"
+      ],
+      "noticeId": "5ef7368c76204ac19d0cf5af5f259f98",
+      "officeAddress": {
+        "zipcode": "44131",
+        "city": "INDEPENDENCE",
+        "countryCode": "USA",
+        "state": "OH"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {},
+        "state": {},
+        "country": {}
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "katherine.johnson6@va.gov",
+          "phone": "216-447-8300 x3622",
+          "title": "Contract Specialist",
+          "fullName": "Katherine Johnson"
+        }
+      ],
+      "postedDate": "2026-10-06",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0a03444e457a44a3888b9ea4b59c2360/download"
+      ],
+      "responseDeadLine": "2026-10-15",
+      "solicitationNumber": "36C77626Q0257",
+      "title": "Q702--Gainesville OPC IOTA  RFQ CANCELLED",
+      "type": "Special Notice",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/5ef7368c76204ac19d0cf5af5f259f98/view",
+      "_pulled_naics": "541614",
+      "_pulled_ptype": "s",
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     },
     {
       "active": "Yes",
@@ -5623,7 +5932,7 @@
       "uiLink": "https://sam.gov/workspace/contract/opp/1fe9587d03c24c76921fe74533044325/view",
       "_pulled_naics": "484110",
       "_pulled_ptype": "k",
-      "_pulled_at": "2026-10-22T03:13:49.039222"
+      "_pulled_at": "2026-10-22T15:26:28.430188"
     }
   ]
 }
